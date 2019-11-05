@@ -2443,3 +2443,18 @@ input, select, textarea {
 					}
 
 	}
+
+/* Changes to gallery */
+
+#portfolio .container .row div:nth-child(4){
+	display:none;
+}
+
+#portfolio .container .row div:nth-child(5){
+	display:none;
+}
+
+#portfolio .container .row div:nth-child(6){
+	display:none;
+}
+
